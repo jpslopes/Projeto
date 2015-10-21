@@ -1,0 +1,18 @@
+2
+2015 10 30
+Sapatilhas xpto
+recompensa 20 Ganha uma caneta
+recompensa 50 Ganha uma caneca
+recompensa 100 Ganha uma caneca, uma t-shirt e um porta-chaves
+dinheirop 750
+dinheirod 20
+joao
+mail maria Um projeto muito interessante, gostaria que produzissem sapatilhas brancas
+votacao As sapatilhas irao ser produzidas nas 3 cores mais votadas
+0 verde
+0 vermelho
+1 azul
+0 amarelo
+0 laranja
+1 branco
+0 preto

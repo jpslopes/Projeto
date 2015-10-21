@@ -1,0 +1,18 @@
+1
+2015 10 25
+Caderno Impermeavel
+recompensa 10 Ganha uma caneta
+recompensa 20 Ganha uma caneca
+recompensa 50 Ganha uma caneca e uma t-shirt
+dinheirop 450
+dinheirod 30
+mauro
+mail maria Um projeto muito interessante
+votacao O caderno apenas ira ser produzido numa das seguintes cores
+1 verde
+1 vermelho
+0 azul
+0 amarelo
+0 laranja
+0 branco
+0 preto
